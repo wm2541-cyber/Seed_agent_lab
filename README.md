@@ -1,6 +1,6 @@
 # SEED Agent Lab
 
-[English](README.md) | [简体中文](README_ZH.md)
+[English](README.md) | [简体中文](README_ZH.md) | [Interactive Research Blog (GitHub Pages)](https://wm2541-cyber.github.io/Seed_agent_lab/)
 
 **Hybrid Prefill Alignment & Speculative Decoding for Coding Agents on Apple Silicon (`Qwen3.5-4B-MLX-8bit`)**
 

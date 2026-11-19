@@ -1,6 +1,6 @@
 # SEED Agent Lab
 
-[English](README.md) | [简体中文](README_ZH.md)
+[English](README.md) | [简体中文](README_ZH.md) | [交互式技术博客 (GitHub Pages)](https://wm2541-cyber.github.io/Seed_agent_lab/)
 
 **面向 Apple Silicon 的 Coding Agent 混合 Prefill 对齐与自投机解码（`Qwen3.5-4B-MLX-8bit`）**
 
