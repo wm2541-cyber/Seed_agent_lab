@@ -1,0 +1,17 @@
+# Python & virtual environment
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+
+# macOS metadata
+.DS_Store
+
+# Large binary weights & reproducible local checkpoints (>100MB GitHub limit)
+checkpoints/
+outputs/
+*.npz
+*.safetensors
+*.bin
+*.gguf

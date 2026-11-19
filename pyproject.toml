@@ -1,0 +1,22 @@
+[project]
+name = "seed-agent-lab"
+version = "0.1.0"
+description = "Local MVP lab on Apple Silicon for Shallow Prefill, State Sink SVD, and Agent Self-Speculative Decoding on Qwen3.5-4B"
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "accelerate>=1.16.0",
+    "huggingface-hub>=2.4.0",
+    "matplotlib>=3.11.2",
+    "mlx>=0.32.4",
+    "mlx-lm>=0.32.2",
+    "mlx-vlm>=0.8.0",
+    "numpy>=2.5.5",
+    "pytest>=9.2.0",
+    "safetensors>=0.8.0",
+    "torch>=2.15.0",
+    "transformers>=5.23.0",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
